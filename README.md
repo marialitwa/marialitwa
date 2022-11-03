@@ -1,21 +1,11 @@
-# Welcome to my GitHub Profile!
+# Welcome to my GitHub Profile
 
-### My name is Maria, and so far I've been working as a professional portrait and documentary photographer. Currently I'm learning to code to explore a whole new world, yay!! :)
+### My name is Maria. Currently I'm learning Web Development specializing on Frontend. Since 2012 I've been working as a freelance portrait and documentary photographer.
 
-### Besides photography I love to learn, I love beautiful design, and I love simplicity.
+### Besides photography I love beautiful design, simplicity, and I love to learn.
 
 ---
 
-Here's an image of my work about Water Gypsies in Bangladesh.
-Feel free to check out more on my website: [www.marialitwa.com](https://www.marialitwa.com)
+Feel free to check my website: [www.marialitwa.com](https://www.marialitwa.com)
 
-![link](https://images.squarespace-cdn.com/content/v1/517ece06e4b0f2c07592f79b/1417714093840-SBHK7LI3NV5DDVCGRXVJ/water-gypsies-maria-litwa-2781.jpg?format=2500w)
-
-
-So far I have worked in these countries:
-- Northern Iraq
-- Israel and Gaza
-- Bangladesh
-- Hungary 
-- and a few more
 
