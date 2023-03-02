@@ -4,6 +4,3 @@ Hej there, my name is Maria. I recently mastered an intensive web development co
 
 Besides photography I love beautiful design, simplicity, and I love to learn.
 
-[www.marialitwa.com](https://www.marialitwa.com)
-
-
