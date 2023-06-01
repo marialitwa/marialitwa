@@ -8,7 +8,7 @@ End of 2022 I successfully mastered an intense coding bootcamp at Neue Fische
 
 I studied communications design and worked as a portrait & documentary photographer and trainer for round about 10 years.
 
-**I'd love to connect! Here's my :arrow_right: [LinkedIn](https://www.linkedin.com/in/marialitwa/)**
+I'd love to connect! Here's my :arrow_right: [LinkedIn](https://www.linkedin.com/in/marialitwa/)
 
 
 ## Tech Stack
