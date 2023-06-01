@@ -1,6 +1,6 @@
 # Hej! 👋
 
-**My name is Maria and I'm currently moving from Cologne to Berlin starting as a creative JUNIOR FRONTEND DEVELOPER**
+### My name is Maria. I'm currently moving to Berlin to get started as a creative JUNIOR FRONTEND DEVELOPER. 
 
 End of 2022 I successfully mastered an intense coding bootcamp at Neue Fische
 
