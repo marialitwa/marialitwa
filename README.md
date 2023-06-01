@@ -1,6 +1,6 @@
 # Hej! 👋
 
-**My name is Maria and I'm currently moving from Cologne to Berlin starting as a creative JUNIOR FRONTEND DEVELOPER.**
+**My name is Maria and I'm currently moving from Cologne to Berlin starting as a creative JUNIOR FRONTEND DEVELOPER**
 
 End of 2022 I successfully mastered an intense coding bootcamp at Neue Fische
 
@@ -19,6 +19,8 @@ I studied communications design and worked as a portrait & documentary photograp
 - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 - ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 - ![Adobe Creative Suite](https://img.shields.io/badge/adobe_creative_suite-%2331A8FF.svg?style=for-the-badge&logo=adobe&logoColor=white) 
+
+
 
 ## GitHub Stats
 
