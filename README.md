@@ -6,7 +6,7 @@ End of 2022 I successfully mastered an intense coding bootcamp at Neue Fische
 
 [<img src="https://wordpress.startsteps.org/wp-content/uploads/2022/02/neuefische@2x.png" alt="neue fische image" width="200"/> ](https://www.neuefische.de/)</br>
 
-I studied communications design and worked as a portrait & documentary photographer and trainer for round about 10 years.
+I studied communications design and have an extensive background as a portrait & documentary photographer and trainer for round about 10 years.
 
 I'd love to connect! Here's my :arrow_right: [LinkedIn](https://www.linkedin.com/in/marialitwa/)
 
