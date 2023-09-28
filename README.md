@@ -8,7 +8,7 @@ End of 2022 I successfully mastered an intense coding bootcamp at Neue Fische.
 
 While seeking a Junior position I'm constantly learning to develop my tech skills. Currently I'm studying the book _React Hooks in Action_ by John Larsen, building the covered booking app along the way. 
 
-[_React Hooks in Action_]([https://www.example.com](https://www.manning.com/books/react-hooks-in-action))
+[_React Hooks in Action_](https://www.manning.com/books/react-hooks-in-action)
 
 I studied communications design and have an extensive background as a portrait & documentary photographer and trainer for round about 10 years.
 
