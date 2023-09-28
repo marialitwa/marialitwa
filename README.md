@@ -6,7 +6,7 @@ End of 2022 I successfully mastered an intense coding bootcamp at Neue Fische.
 
 [<img src="https://wordpress.startsteps.org/wp-content/uploads/2022/02/neuefische@2x.png" alt="neue fische image" width="200"/> ](https://www.neuefische.de/)</br>
 
-While seeking a Junior position I'm constantly learning to develop my tech skills. Currently I'm studying the book [**_React Hooks in Action_**](https://www.manning.com/books/react-hooks-in-action) by _John Larsen_, building the covered React app along the way. 
+While seeking a Junior position I'm constantly learning to develop my tech skills. Currently I'm studying the book [**_React Hooks in Action_**](https://www.manning.com/books/react-hooks-in-action) by _John Larsen_ building the covered React app along the way. 
 
 I studied communications design and have an extensive background as a portrait & documentary photographer and trainer for round about 10 years.
 
