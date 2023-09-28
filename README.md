@@ -2,7 +2,7 @@
 
 ### My name is Maria. I just moved from Cologne to Berlin to get started as a newly minted creative JUNIOR FRONTEND DEVELOPER. 
 
-End of 2022 I successfully mastered an intense <span style='color: hotpink;'>coding</span> bootcamp at Neue Fische. 
+End of 2022 I successfully mastered an intense <span style="color: hotpink;">coding</span> bootcamp at Neue Fische. 
 
 [<img src="https://wordpress.startsteps.org/wp-content/uploads/2022/02/neuefische@2x.png" alt="neue fische image" width="200"/> ](https://www.neuefische.de/)</br>
 
