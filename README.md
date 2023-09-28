@@ -6,7 +6,11 @@ End of 2022 I successfully mastered an intense coding bootcamp at Neue Fische.
 
 [<img src="https://wordpress.startsteps.org/wp-content/uploads/2022/02/neuefische@2x.png" alt="neue fische image" width="200"/> ](https://www.neuefische.de/)</br>
 
-While seeking a Junior position I'm constantly learning to develop my tech skills. I studied communications design and have an extensive background as a portrait & documentary photographer and trainer for round about 10 years.
+While seeking a Junior position I'm constantly learning to develop my tech skills. Currently I'm studying the book _React Hooks in Action_ by John Larsen, building the covered booking app along the way. 
+
+[_React Hooks in Action_]([https://www.example.com](https://www.manning.com/books/react-hooks-in-action))
+
+I studied communications design and have an extensive background as a portrait & documentary photographer and trainer for round about 10 years.
 
 I'd love to connect! Here's my :arrow_right: [LinkedIn](https://www.linkedin.com/in/marialitwa/)
 
