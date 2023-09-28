@@ -1,4 +1,4 @@
-# Hej! 👋
+# Hej! 😊👋
 
 ### My name is Maria. I just moved from Cologne to Berlin to get started as a newly minted creative JUNIOR FRONTEND DEVELOPER. 
 
