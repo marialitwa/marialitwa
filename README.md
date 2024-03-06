@@ -26,8 +26,6 @@ I'd love to connect! Here's my :arrow_right: [LinkedIn](https://www.linkedin.com
 
 ## GitHub Stats
 
-![Maria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marialitwa&theme=react&hide_border=false&include_all_commits=true&count_private=true)
-
 ![Maria's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=marialitwa&theme=react&hide_border=false)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marialitwa&theme=react&hide=TeX&layout=compact)
