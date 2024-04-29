@@ -4,15 +4,14 @@ I’m a **_Frontend Web Developer_** with a bit of Backend knowledge based in _B
 
 Recently graduated as a Full-Stack Developer from Code Academy Berlin. 2022 successfully mastered an intense Frontend Web Developer bootcamp at Neue Fische. 
 
-
+<br />
 
 ## Current Projects
 > ⭐️ [New in Town](https://github.com/marialitwa/mern-new-in-town) - I'm currently building a web app that collects all new favorite spots in town. After moving from Cologne to Berlin in 2023 I had to find new doctors, new favorite cafés, save all the new places I want to explore. With my app I’ll have all in one place with a user friendly and appealing design.
 
 > ⭐️ [Portfolio](https://github.com/marialitwa/portfolio-web-developer) - I'm building my portfolio with Next.js App Router, Typescript and Tailwind. 
 
-
-
+<br />
 
 ## Tech Stack & Tools
 
@@ -41,18 +40,35 @@ Recently graduated as a Full-Stack Developer from Code Academy Berlin. 2022 succ
 ![VS Code](https://img.shields.io/badge/VS_code-darkblue?style=for-the-badge&logo=visualstudiocode&logoColor=white) 
 ![Adobe Creative Suite](https://img.shields.io/badge/adobe_creative_suite-darkblue?style=for-the-badge&logo=adobe&logoColor=white) 
 
-
+<br />
 
 ## My Values
+🌳 Sustainable & Inclusive Development
+<br />
+🖤 Appreciation
+<br />
+💡 Mindset of Learning & Curiosity
+<br />
+🙌 Teamwork & Communication
 
+<br />
 
 ## Hobbies
+🍵 Matcha Latte Enthusiast
+<br />
+🧘🏼‍♀️ Sports & Yoga Lover
+<br />
+🍕 Having a good time with my friends
+<br />
+🌱 Plant-based Cooking & Baking
 
+<br />
 
 ## Connect with Me
-[Portfolio](https://www.marialitwa.com)
-[LinkedIn](https://www.linkedin.com/in/marialitwa/)
+- [Portfolio](https://www.marialitwa.com)
+- [LinkedIn](https://www.linkedin.com/in/marialitwa/)
 
+<br />
 
 ## GitHub Stats
 
