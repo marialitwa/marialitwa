@@ -1,15 +1,15 @@
 # Hej, I'm Maria! 👋🏻
 
-I’m a **_Frontend Web Developer_** with a bit of Backend knowledge based in _Berlin_. With prior experience in photography & design. Structured, focused and dedicated with empathetic people & communication skills. I’m a strong believer in _lifelong learning_ and I love to work with a thriving & supportive team.
+I’m a **_Frontend Web Developer_** with a bit of Backend knowledge based in **_Berlin_**. With prior experience in photography & design. Structured, focused and dedicated with empathetic people & communication skills. I’m a strong believer in _lifelong learning_ and I love to work with a _thriving & supportive_ team.
 
-Recently graduated as a Full-Stack Developer from Code Academy Berlin. 2022 successfully mastered an intense Frontend Web Developer bootcamp at Neue Fische. 
+Recently graduated as a Full-Stack Developer from Code Academy Berlin. 2022 successfully mastered an intense Frontend Web Developer bootcamp at Neue Fische.
 
 <br />
 
 ## Current Projects
-> ⭐️ [New in Town](https://github.com/marialitwa/mern-new-in-town) - I'm currently building a web app that collects all new favorite spots in town. After moving from Cologne to Berlin in 2023 I had to find new doctors, new favorite cafés, save all the new places I want to explore. With my app I’ll have all in one place with a user friendly and appealing design.
+> ⭐️ [New in Town](https://github.com/marialitwa/mern-new-in-town) - I'm currently building a web app that collects all new favorite spots in a new town. After moving from Cologne to Berlin in 2023 I had to find and gather new doctors, new favorite cafés, and save all the new places I want to enjoy & explore. 
 
-> ⭐️ [Portfolio](https://github.com/marialitwa/portfolio-web-developer) - I'm building my portfolio with Next.js App Router, Typescript and Tailwind. 
+> ⭐️ [Portfolio](https://github.com/marialitwa/portfolio-web-developer) - I'm building my developer portfolio page with Next.js App Router, Typescript and Tailwind. 
 
 <br />
 
@@ -58,7 +58,7 @@ Recently graduated as a Full-Stack Developer from Code Academy Berlin. 2022 succ
 <br />
 🧘🏼‍♀️ Sports & Yoga Lover
 <br />
-🍕 Having a good time with my friends
+🍕 Good time with friends
 <br />
 🌱 Plant-based Cooking & Baking
 
