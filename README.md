@@ -1,16 +1,14 @@
-# Hej! 😊👋
+# Hej, I'm Maria!
 
-### My name is Maria. I just moved from Cologne to Berlin to get started as a newly minted creative JUNIOR FRONTEND DEVELOPER. 
+I’m a Frontend Web Developer with a bit of Backend knowledge based in Berlin. With prior experience in photography & design. Structured, focused and dedicated with empathetic people & communication skills. I’m a strong believer in lifelong learning and I love to work with a thriving & supportive team.
 
-End of 2022 I successfully mastered an intense coding bootcamp at Neue Fische. 
+Recently graduated as a Full-Stack Developer from Code Academy Berlin. 2022 successfully mastered an intense Frontend Web Developer bootcamp at Neue Fische. 
 
-[<img src="https://wordpress.startsteps.org/wp-content/uploads/2022/02/neuefische@2x.png" alt="neue fische image" width="200"/> ](https://www.neuefische.de/)</br>
+## Current Projects
 
-While seeking a Junior position I'm constantly learning to develop my tech skills. Currently I'm studying the book [**_React Hooks in Action_**](https://www.manning.com/books/react-hooks-in-action) by _John Larsen_ building the covered React app along the way. 
+[New in Town](https://github.com/marialitwa/mern-new-in-town) - I'm currently building a web app that collects all new favorite spots in town. After moving from Cologne to Berlin in 2023 I had to find new doctors, new favorite cafés, save all the new places I want to explore. With my app I’ll have all in one place with a user friendly and appealing design.
 
-I studied communications design and have an extensive background as a portrait & documentary photographer and trainer for round about 10 years.
-
-I'd love to connect! Here's my :arrow_right: [LinkedIn](https://www.linkedin.com/in/marialitwa/)
+[Portfolio](https://github.com/marialitwa/portfolio-web-developer) - I'm building my portfolio with Next.js App Router, Typescript and Tailwind. 
 
 
 ## Tech Stack
@@ -22,6 +20,15 @@ I'd love to connect! Here's my :arrow_right: [LinkedIn](https://www.linkedin.com
 - ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 - ![Adobe Creative Suite](https://img.shields.io/badge/adobe_creative_suite-%2331A8FF.svg?style=for-the-badge&logo=adobe&logoColor=white) 
 
+## My Values
+
+
+## Hobbies
+
+
+## Connect with Me
+[Portfolio](https://www.marialitwa.com)
+[LinkedIn](https://www.linkedin.com/in/marialitwa/)
 
 
 ## GitHub Stats
