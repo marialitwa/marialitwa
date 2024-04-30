@@ -16,7 +16,7 @@ Recently graduated as a Full-Stack Developer from Code Academy Berlin. 2022 succ
 ## Tech Stack & Tools
 
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typecript-black?style=for-the-badge&logo=typescript&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript&logoColor=white) 
 ![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=white) 
 ![Next JS](https://img.shields.io/badge/Next_JS-black?style=for-the-badge&logo=next.js&logoColor=white)
 
