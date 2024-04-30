@@ -75,7 +75,11 @@ Recently graduated as a Full-Stack Developer from Code Academy Berlin. 2022 succ
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marialitwa&theme=react&hide=TeX&layout=compact)
 
-![Maria's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=marialitwa&theme=react&hide_border=false)
+<!--- ![Maria's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=marialitwa&theme=react&hide_border=false) --->
+![Maria's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=marialitwa&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=FelineHuhn.FelineHuhn)
+
+
+
 
