@@ -67,7 +67,6 @@ Recently graduated as a Full-Stack Developer from Code Academy Berlin. 2022 succ
 ## Connect with Me
 - [Portfolio](https://www.marialitwa.com)
 - [LinkedIn](https://www.linkedin.com/in/marialitwa/)
-- [Instagram](https://www.instagram.com/marialitwa/)
 
 <br />
 
