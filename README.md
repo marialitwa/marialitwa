@@ -43,9 +43,9 @@ Recently graduated as a Full-Stack Developer from Code Academy Berlin. 2022 succ
 <br />
 
 ## My Values
-🌳 Sustainable & Inclusive Development
-<br />
 🖤 Appreciation
+<br />
+🌳 Sustainable & Inclusive Development
 <br />
 💡 Mindset of Learning & Curiosity
 <br />
