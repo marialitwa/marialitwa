@@ -1,6 +1,6 @@
 # Hej, I'm Maria! 👋🏻
 
-I’m a **_Frontend Web Developer_** with a bit of Backend knowledge, based in **_Berlin_**. With prior experience in photography & design. Passionate about beautiful UX/UI and clean code. Structured, focused and dedicated with empathetic social & communication skills. I’m a strong believer in _lifelong learning_ and I love to work with a _thriving & supportive_ team.
+I’m a **_Frontend Web Developer_** with a bit of Backend knowledge, based in **_Berlin_**. With prior experience in photography & design. Passionate about beautiful UX/UI and clean code. Structured, focused and dedicated with empathetic social & communication skills. I’m a strong believer in _lifelong learning_ and love to work with a _thriving & supportive_ team.
 
 Recently graduated as a Full-Stack Developer from Code Academy Berlin. 2022 successfully mastered an intense Frontend Web Developer bootcamp at Neue Fische.
 
