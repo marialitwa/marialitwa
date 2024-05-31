@@ -28,10 +28,11 @@ Recently graduated as a Full-Stack Developer from Code Academy Berlin. 2022 succ
 ![Framer Motion](https://img.shields.io/badge/framer_motion-purple?style=for-the-badge&logo=framermotion&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/node-darkgreen?style=for-the-badge&logo=node.js&logoColor=white) 
+![Node.js](https://img.shields.io/badge/node.js-darkgreen?style=for-the-badge&logo=node.js&logoColor=white) 
 ![mongoDB](https://img.shields.io/badge/mongodb-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white) 
-![mongoose](https://img.shields.io/badge/mongoose-darkgreen?style=for-the-badge&logo=mongoose&logoColor=white) 
-![Express](https://img.shields.io/badge/express-darkgreen?style=for-the-badge&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-darkgreen?style=for-the-badge&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-darkgreen?style=for-the-badge&logo=firebase&logoColor=white)
+
 
 ![HTML5](https://img.shields.io/badge/html5-blue?style=for-the-badge&logo=html5&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-blue?style=for-the-badge&logo=git&logoColor=white)
@@ -41,6 +42,8 @@ Recently graduated as a Full-Stack Developer from Code Academy Berlin. 2022 succ
 
 ![VS Code](https://img.shields.io/badge/VS_code-darkblue?style=for-the-badge&logo=visualstudiocode&logoColor=white) 
 ![Adobe Creative Suite](https://img.shields.io/badge/adobe_creative_suite-darkblue?style=for-the-badge&logo=adobe&logoColor=white) 
+![Notion](https://img.shields.io/badge/notion-darkblue?style=for-the-badge&logo=notion&logoColor=white) 
+
 
 <br />
 
