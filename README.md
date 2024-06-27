@@ -7,7 +7,7 @@ Recently graduated as a Full-Stack Developer from Code Academy Berlin. 2022 succ
 <br />
 
 ## Current Projects & Courses
-> ⭐️ [New in Town](https://github.com/marialitwa/mern-new-in-town) - I'm currently building a web app that collects all new favorite spots in a new town. After moving from Cologne to Berlin in 2023 I had to find and gather new doctors, new favorite cafés, and save all the new places I want to enjoy & explore. 
+> ⭐️ [New in Town](https://github.com/marialitwa/mern-new-in-town) - I'm currently building a fullstack web app that collects all new favorite spots in a new town. After moving from Cologne to Berlin in 2023 I had to find and gather new doctors, new favorite cafés, and save all the new places I want to enjoy & explore. 
 
 > ⭐️ [Portfolio](https://github.com/marialitwa/portfolio-web-developer) - I'm building my developer portfolio page with Next.js App Router, TypeScript and Tailwind CSS.
 
