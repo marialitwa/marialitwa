@@ -41,8 +41,13 @@ Recently graduated as a Full-Stack Developer from Code Academy Berlin. 2022 succ
 ![Postman](https://img.shields.io/badge/postman-blue?style=for-the-badge&logo=postman&logoColor=white)
 
 ![VS Code](https://img.shields.io/badge/VS_code-darkblue?style=for-the-badge&logo=visualstudiocode&logoColor=white) 
-![Adobe Creative Suite](https://img.shields.io/badge/adobe_creative_suite-darkblue?style=for-the-badge&logo=adobe&logoColor=white) 
+![Adobe Creative Cloud](https://img.shields.io/badge/adobe_creative_cloud-darkblue?style=for-the-badge&logo=adobe&logoColor=white) 
 ![Notion](https://img.shields.io/badge/notion-darkblue?style=for-the-badge&logo=notion&logoColor=white) 
+<!---
+![Adobe Photoshop](https://img.shields.io/badge/adobe_photoshop-darkblue?style=for-the-badge&logo=adobe&logoColor=white) 
+![Adobe Lightroom](https://img.shields.io/badge/adobe_lightroom-darkblue?style=for-the-badge&logo=adobe&logoColor=white) 
+![Adobe InDesign](https://img.shields.io/badge/adobe_indesign-darkblue?style=for-the-badge&logo=adobe&logoColor=white) 
+ --->
 
 
 <br />
