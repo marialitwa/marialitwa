@@ -11,7 +11,7 @@ Recently graduated as a Full-Stack Developer from Code Academy Berlin. 2022 succ
 
 > ⭐️ [Portfolio](https://github.com/marialitwa/portfolio-web-developer) - I'm building my developer portfolio page with Next.js App Router, TypeScript and Tailwind CSS.
 
-> ⭐️ [Accessibility](https://web.dev/learn/accessibility/) - I'm currently going through this A11y course to expand my knowledge in this area to create inclusive web applications.
+> ⭐️ [Accessibility](https://web.dev/learn/accessibility/) - I'm currently taking this A11y course to expand my knowledge in this area to create inclusive web applications. It makes programming more meaningful for me as a web developer.
 
 <!---
 > ⭐️ Professional JavaScript & CSS - I'm currently taking this online course to constantly practice and deepen my JavaScript & CSS skills while learning the latest best practices.
